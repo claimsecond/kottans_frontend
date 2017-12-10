@@ -1,5 +1,3 @@
-** Who calls the doctor?.. ** 
-![Cat and doc](gif/ready.gif)
 
 #Kottans frontend course
 
