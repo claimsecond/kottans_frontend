@@ -1,7 +1,7 @@
 
-#Kottans frontend course
+# Kottans frontend course
 
-#Task 0
+### Task 0
 
 Just finished [How to use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) and [try.github.io](https://try.github.io/levels/1/challenges/1) 
 
