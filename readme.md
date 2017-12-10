@@ -8,4 +8,8 @@ Just finished [How to use Git and GitHub](https://www.udacity.com/course/how-to-
 Udacity course is good one. Very straightforward and gives a solid background in using github. After this course try.github.io is needed just to repeat basic concepts once again from different point of view. 
 Highly recommend additional reading [Git на практике](https://sohabr.net/habr/post/342116/) which is describing how it looks like on practice.
 
+* handling conflicts 
+* not sure there was something like that
+* I think there's stiil a lot to learn to do something with what I learned
+
 ---
