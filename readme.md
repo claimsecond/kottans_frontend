@@ -19,7 +19,7 @@ Highly recommend additional reading [Git на практике](https://sohabr.n
 I'm still not able to do vagrant ssh the way its described in the lessons. Connecting through the putty and some magic :) 
 Update: ssh vagrant@127.0.0.1 -p 2222 -o IdentitiesOnly=yes helped me...
 
-* no doubt vagrant is totally neew for me
+* no doubt vagrant is totally new for me
 * command line in Linux is full of surprises: I've been using it since early 2000 but it keeps surprising me
 * if I ever again sould be installing Windows, I would never, never use cyrillic for user name
 
