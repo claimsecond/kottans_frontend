@@ -28,3 +28,16 @@ Update: ssh vagrant@127.0.0.1 -p 2222 -o IdentitiesOnly=yes helped me...
 ![](task_1/Linux_command_line_basics.png)
 <br>
 ![](task_1/Networking_for_Web_Developers.png)
+
+---
+
+### Task 2
+
+[Oh shit, git!](http://ohshitgit.com/) - nice short list "just in case" 
+[Flight rules for git](https://github.com/k88hudson/git-flight-rules) - I kept it for further use
+
+![](task_2/What_is_version_control.png)
+<br>
+![](task_2/GitHub_and_collaboration.png)
+
+---
