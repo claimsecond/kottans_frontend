@@ -41,3 +41,10 @@ Update: ssh vagrant@127.0.0.1 -p 2222 -o IdentitiesOnly=yes helped me...
 ![](task_2/GitHub_and_collaboration.png)
 
 ---
+
+### Task 3
+<br>
+Intro to HTML & CSS is good basic course, but further research absolutely needed after completion. And this is where links from kottans help a lot.
+<br>
+
+![](task_3/Intro to HTML & CSS.png)
