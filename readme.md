@@ -55,4 +55,4 @@ Intro to HTML & CSS is good basic course, but further research absolutely needed
 <br> 
 Responsive Web Design Fundamentals - gives a very straightforward explanation of what "responsive" means and how to implement some basic approaches. 
 <br>
-![](task_4/Responsive_Web_Design_Fundamentals.jpg)
+![](task_4/Responsive_Web_Design_Fundamentals.png)
