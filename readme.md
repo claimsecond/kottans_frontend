@@ -47,4 +47,12 @@ Update: ssh vagrant@127.0.0.1 -p 2222 -o IdentitiesOnly=yes helped me...
 Intro to HTML & CSS is good basic course, but further research absolutely needed after completion. And this is where links from kottans help a lot.
 <br>
 
-![](task_3/Intro_to_HTML_&_CSS.png)
+![](task_3/Intro_to_HTML_and_CSS.png)
+
+---
+
+### Task 4
+<br> 
+Responsive Web Design Fundamentals - gives a very straightforward explanation of what "responsive" means and how to implement some basic approaches. 
+<br>
+![](task_4/Responsive_Web_Design_Fundamentals.jpg)
