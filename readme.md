@@ -59,8 +59,9 @@ Responsive Web Design Fundamentals - gives a very straightforward explanation of
     <img src="task_4/Responsive.png" />
 </p>
 <br>
+
 ---
-<br>
+
 ### Task 5 
 <br>
 Intro to JS is good course but a little bit accentuated on donuts :)
