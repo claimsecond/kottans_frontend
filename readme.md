@@ -67,3 +67,12 @@ Responsive Web Design Fundamentals - gives a very straightforward explanation of
 Intro to JS is good course but a little bit accentuated on donuts :)
 <br>
 <p><img src="task_5/screenshot_299.png" alt=""></p>
+
+--- 
+
+### Task 6 
+<br>
+I tried hard to understand what is all about, but not sure is I understood as much as I have to... 
+And no game created at the end. Sadly...
+<br>
+<p><img src='task_6/screenshot_306.png' alt=""></p>
